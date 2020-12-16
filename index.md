@@ -4,9 +4,9 @@ Hi, I'm  Michael Walther, a postdoctoral researcher in Astrophysics and Cosmolog
 
 ## Work topics
 
-I'm focusing my work on observations of the Lyman-α forest and its cosmological as well as astrophysical interpretation using Cosmological Simulations. Currently I'm involved in the Dark Energy spectroscopic instrument (DESI) survey working on measurements of the Lyα forest power spectrum and performing Nyx hydrodynamical simulations of up to 4096<sup>3<\sup> resolution elements on the Joliot-Curie Supercomputer at the TGCC (très grand centre de calcul) in Bruyères-le-Châtel, France.
+I'm focusing my work on observations of the Lyman-α forest and its cosmological as well as astrophysical interpretation using Cosmological Simulations. Currently I'm involved in the Dark Energy spectroscopic instrument (DESI) survey working on measurements of the Lyα forest power spectrum and performing Nyx hydrodynamical simulations of up to 4096<sup>3</sup> resolution elements on the Joliot-Curie Supercomputer at the TGCC (très grand centre de calcul) in Bruyères-le-Châtel, France.
 
-The goal of this work is to obtain more accurate constraints on warm dark matter (WDM), the neutrino mass Σm<sub>ν<\sub> and inflationary parameters.
+The goal of this work is to obtain more accurate constraints on warm dark matter (WDM), the neutrino mass Σm<sub>ν</sub> and inflationary parameters.
 
 ## Publications
 
