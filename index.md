@@ -1,4 +1,4 @@
-## Welcome to my homepage
+## Michael Walther's homepage
 
 Hi, I'm  Michael Walther, a postdoctoral researcher in Astrophysics and Cosmology at the CEA (Commissariat à l'énergie atomique et aux énergies alternatives) in Saclay near Paris, France. Previously I worked at UC Santa Barbara, US and MPIA Heidelberg, Germany.
 
