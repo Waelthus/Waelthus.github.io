@@ -2,8 +2,6 @@
 
 Hi, I'm  Michael Walther, a postdoctoral researcher in Astrophysics and Cosmology at the CEA (Commissariat à l'énergie atomique et aux énergies alternatives) in Saclay near Paris, France. Previously I worked at UC Santa Barbara, US and MPIA Heidelberg, Germany.
 
-<img src="images/me.jpg" alt="hi" class="inline" width="150"/>
-
 ## Work topics
 
 I'm focusing my work on observations of the Lyman-α forest and its cosmological as well as astrophysical interpretation using Cosmological Simulations. Currently I'm involved in the Dark Energy spectroscopic instrument (DESI) survey working on measurements of the Ly-α forest power spectrum and performing Nyx hydrodynamical simulations of up to 4096^3 resolution elements on the Joliot-Curie Supercomputer at the TGCC (très grand centre de calcul) in Bruyères-le-Châtel, France.
