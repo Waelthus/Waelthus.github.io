@@ -15,7 +15,7 @@ Previously, I have been working on constraining thermal evolution in the Interga
 
 ADS:  [click here](https://ui.adsabs.harvard.edu/public-libraries/cATk6FUoS-eO6bimCvCCOg)
 
-Orcid:  [0000-0002-1748-3745](http://orcid.org/0000-0002-1748-3745)
+<div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-1748-3745" href="https://orcid.org/0000-0002-1748-3745" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon"> 0000-0002-1748-3745</a></div>
 
 ## CV
 
