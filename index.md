@@ -1,6 +1,6 @@
 ## Michael Walther
 
-Hi, I'm  Michael Walther, a postdoctoral researcher in Astrophysics and Cosmology at the [university observatory Munich](https://www.usm.uni-muenchen.de/) which is part of [Ludwig Maximilians University, Munich, Germany](https://www.lmu.de). Previously I worked at [CEA Saclay, France](https://www.cea.fr), [UC Santa Barbara, US](https://www.ucsb.edu) and [MPIA Heidelberg, Germany](https://www.mpia.de).
+Hi, I'm  Michael Walther, a postdoctoral researcher in the group for Astrophysics, Cosmology and Artificial Intelligence at the [university observatory Munich](https://www.usm.uni-muenchen.de/) which is part of [Ludwig Maximilians University, Munich, Germany](https://www.lmu.de). Previously I worked at [CEA Saclay, France](https://www.cea.fr), [UC Santa Barbara, US](https://www.ucsb.edu) and [MPIA Heidelberg, Germany](https://www.mpia.de).
 
 ## Work topics
 
